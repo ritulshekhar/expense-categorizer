@@ -1,0 +1,96 @@
+{
+  "Food & Dining": {
+    "keywords": [
+      "zomato",
+      "swiggy",
+      "restaurant",
+      "cafe",
+      "pizza",
+      "burger",
+      "food",
+      "dining"
+    ]
+  },
+
+  "Shopping": {
+    "keywords": [
+      "amazon",
+      "flipkart",
+      "myntra",
+      "ajio",
+      "shopping",
+      "store"
+    ]
+  },
+
+  "Transport": {
+    "keywords": [
+      "uber",
+      "ola",
+      "rapido",
+      "metro",
+      "bus",
+      "fuel",
+      "petrol",
+      "diesel"
+    ]
+  },
+
+  "Bills & Utilities": {
+    "keywords": [
+      "electricity",
+      "water",
+      "gas",
+      "recharge",
+      "internet",
+      "broadband",
+      "mobile",
+      "utility"
+    ]
+  },
+
+  "Subscriptions": {
+    "keywords": [
+      "netflix",
+      "spotify",
+      "prime",
+      "hotstar",
+      "subscription"
+    ]
+  },
+
+  "Healthcare": {
+    "keywords": [
+      "pharmacy",
+      "hospital",
+      "clinic",
+      "medical",
+      "doctor",
+      "medicine"
+    ]
+  },
+
+  "Education": {
+    "keywords": [
+      "course",
+      "udemy",
+      "coursera",
+      "education",
+      "training"
+    ]
+  },
+
+  "Entertainment": {
+    "keywords": [
+      "movie",
+      "cinema",
+      "theatre",
+      "concert",
+      "game"
+    ]
+  },
+
+  "Others": {
+    "keywords": []
+  }
+}
