@@ -1,96 +1,108 @@
 {
-  "Food & Dining": {
+  "Quick Commerce & Grocery": {
     "keywords": [
-      "zomato",
-      "swiggy",
-      "restaurant",
-      "cafe",
-      "pizza",
-      "burger",
-      "food",
-      "dining"
+      "blinkit", "grofers", "zepto", "kirana", "instamart", "swiggy instamart",
+      "bigbasket", "bbdaily", "bb now", "bbnow",
+      "jiomart", "reliance jiomart",
+      "dunzo",
+      "natures basket", "more supermarket", "more retail",
+      "dmart", "avenue supermart",
+      "supermarket", "kirana store"
     ]
   },
 
-  "Shopping": {
+  "Food Delivery & Cloud Kitchens": {
     "keywords": [
-      "amazon",
-      "flipkart",
-      "myntra",
-      "ajio",
-      "shopping",
-      "store"
+      "zomato", "swiggy", "dineout",
+      "eatsure", "faasos", "box8", "behrouz",
+      "ovenstory", "lunchbox rebel",
+      "freshmenu", "innerchef",
+      "eatfit", "curefit",
+      "biryani blues", "biryani by kilo"
     ]
   },
 
-  "Transport": {
+  "Cafes & Coffee": {
     "keywords": [
-      "uber",
-      "ola",
-      "rapido",
-      "metro",
-      "bus",
-      "fuel",
-      "petrol",
-      "diesel"
+      "starbucks", "tata starbucks",
+      "cafe coffee day", "ccd",
+      "blue tokai",
+      "third wave coffee",
+      "barista", "costa coffee",
+      "coffee", "cafe"
     ]
   },
 
-  "Bills & Utilities": {
+  "Restaurants & Dining": {
     "keywords": [
-      "electricity",
-      "water",
-      "gas",
-      "recharge",
-      "internet",
-      "broadband",
-      "mobile",
-      "utility"
+      "mcdonalds", "kfc", "burger king",
+      "dominos", "pizza hut", "la pinoz",
+      "subway", "taco bell",
+      "bbq nation", "barbeque nation",
+      "wow momo", "wow momos",
+      "restaurant", "diner", "eatery"
     ]
   },
 
-  "Subscriptions": {
+  "Shopping & E-Commerce": {
     "keywords": [
-      "netflix",
-      "spotify",
-      "prime",
-      "hotstar",
-      "subscription"
+      "amazon", "amazon pay",
+      "flipkart", "fkrt",
+      "myntra", "ajio", "tatacliq",
+      "nykaa", "fsn e commerce",
+      "meesho", "snapdeal", "shopclues",
+      "reliance digital", "croma", "vijay sales"
     ]
   },
 
-  "Healthcare": {
+  "Transport & Travel": {
     "keywords": [
-      "pharmacy",
-      "hospital",
-      "clinic",
-      "medical",
-      "doctor",
-      "medicine"
+      "uber", "ola", "rapido", "blusmart",
+      "irctc", "rail connect",
+      "redbus", "ksrtc", "msrtc",
+      "makemytrip", "mmt", "goibibo",
+      "yatra", "easemytrip",
+      "oyo", "oravel",
+      "airbnb",
+      "indigo", "interglobe",
+      "air india", "vistara", "akasa"
     ]
   },
 
-  "Education": {
+  "Subscriptions & Digital Services": {
     "keywords": [
-      "course",
-      "udemy",
-      "coursera",
-      "education",
-      "training"
+      "netflix", "amazon prime", "prime video",
+      "hotstar", "disney",
+      "spotify", "youtube", "google youtube",
+      "google play", "apple.com", "appstore",
+      "sonyliv", "jiocinema", "zee5",
+      "gaana", "wynk",
+      "cred", "zerodha", "smallcase"
     ]
   },
 
-  "Entertainment": {
+  "Utilities & Bills": {
     "keywords": [
-      "movie",
-      "cinema",
-      "theatre",
-      "concert",
-      "game"
+      "electricity", "bescom", "tangedco",
+      "mseb", "mahavitaran", "bses",
+      "gas", "indane", "bharat gas", "hp gas",
+      "igl", "mngl", "adani gas",
+      "jio", "airtel", "vi", "vodafone",
+      "bsnl", "act fibernet", "hathway",
+      "broadband", "recharge",
+      "water bill", "property tax", "bbps"
     ]
   },
 
-  "Others": {
-    "keywords": []
+  "Wallets & Payment Gateways": {
+    "keywords": [
+      "paytm", "phonepe", "google pay", "gpay",
+      "bhim", "amazon pay",
+      "mobikwik", "freecharge",
+      "razorpay", "rzrpay",
+      "cashfree", "payu",
+      "billdesk", "ccavenue",
+      "bharatpe", "upi"
+    ]
   }
 }

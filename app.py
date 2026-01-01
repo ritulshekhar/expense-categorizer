@@ -5,20 +5,19 @@ import plotly.express as px
 
 # ------------------ PAGE CONFIG ------------------
 st.set_page_config(
-    page_title="Smart Expense Categorizer",
-    page_icon="💸",
+    page_title="Expense Categorizer",
     layout="wide"
 )
 
 # ------------------ THEME TOGGLE ------------------
 theme = st.sidebar.radio(
-    "🎨 Theme",
-    ["Light Pastel", "Dark Pastel"],
+    "Theme",
+    ["Light Mode", "Dark Mode"],
     horizontal=True
 )
 
 # ------------------ THEME CSS ------------------
-if theme == "Light Pastel":
+if theme == "Light Mode":
     bg = "#F6F7FB"
     card = "#FFFFFF"
     text = "#1F2937"
@@ -76,7 +75,7 @@ thead tr th {{
 
 # ------------------ HEADER ------------------
 st.markdown("""
-<h1>💸 Smart Expense Categorizer</h1>
+<h1>Expense Categorizer</h1>
 <p>Upload your bank statement and instantly understand your spending.</p>
 """, unsafe_allow_html=True)
 
@@ -170,7 +169,7 @@ if uploaded:
         st.plotly_chart(bar, use_container_width=True)
 
     # ------------------ TABLE ------------------
-    st.subheader("📄 Categorized Transactions")
+    st.subheader("Categorized Transactions")
     st.dataframe(
         df[['date', 'description', 'category', 'amount']],
         use_container_width=True,
@@ -179,7 +178,7 @@ if uploaded:
 
     # ------------------ DOWNLOAD ------------------
     st.download_button(
-        "⬇️ Download Categorized CSV",
+        "Download Categorized CSV",
         df.to_csv(index=False),
         "categorized_expenses.csv",
         type="primary"
